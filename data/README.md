@@ -1,0 +1,9 @@
+## Data access
+
+This analysis uses public RNA-seq data from GEO.
+
+Dataset:
+- GSE315549
+
+Please download the expression matrix directly from:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE315549
